@@ -1,1 +1,1 @@
-"Latihan commit pertama" 
+"latihan commit kedua" 
